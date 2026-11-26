@@ -1,4 +1,4 @@
-# APEX: Arithmetic Progression EXplorer
+# NICOMACHUS: named after Nicomachus of Gerasa, whose Introduction to Arithmetic set out number sequences and arithmetic means
 
 Formerly `ap-explorer`.
 
