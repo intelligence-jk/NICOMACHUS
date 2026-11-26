@@ -1,4 +1,6 @@
-# ap-explorer
+# APEX: Arithmetic Progression EXplorer
+
+Formerly `ap-explorer`.
 
 Arithmetic progression explorer: give any three of a, d, n, the nth term and S_n, and get the rest, with the working.
 
